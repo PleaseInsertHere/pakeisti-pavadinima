@@ -20,6 +20,7 @@
     {"name":"sTakas","order":16,"path":"sprites/sTakas/sTakas.yy",},
     {"name":"sMaroz","order":3,"path":"sprites/sMaroz/sMaroz.yy",},
     {"name":"sMarozSuAliuku","order":4,"path":"sprites/sMarozSuAliuku/sMarozSuAliuku.yy",},
+    {"name":"oDoorToRoom2","order":21,"path":"objects/oDoorToRoom2/oDoorToRoom2.yy",},
     {"name":"oZmogelis","order":2,"path":"objects/oZmogelis/oZmogelis.yy",},
     {"name":"sZuvyte","order":1,"path":"sprites/sZuvyte/sZuvyte.yy",},
     {"name":"sTakasBjaurusPosukis","order":18,"path":"sprites/sTakasBjaurusPosukis/sTakasBjaurusPosukis.yy",},

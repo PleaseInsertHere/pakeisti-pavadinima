@@ -37,6 +37,7 @@
     {"id":{"name":"sTakas","path":"sprites/sTakas/sTakas.yy",},},
     {"id":{"name":"sMaroz","path":"sprites/sMaroz/sMaroz.yy",},},
     {"id":{"name":"sMarozSuAliuku","path":"sprites/sMarozSuAliuku/sMarozSuAliuku.yy",},},
+    {"id":{"name":"oDoorToRoom2","path":"objects/oDoorToRoom2/oDoorToRoom2.yy",},},
     {"id":{"name":"oZmogelis","path":"objects/oZmogelis/oZmogelis.yy",},},
     {"id":{"name":"sZuvyte","path":"sprites/sZuvyte/sZuvyte.yy",},},
     {"id":{"name":"sTakasBjaurusPosukis","path":"sprites/sTakasBjaurusPosukis/sTakasBjaurusPosukis.yy",},},
