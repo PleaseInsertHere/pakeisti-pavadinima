@@ -26,6 +26,7 @@
     {"name":"sTakasBjaurusPosukis","order":18,"path":"sprites/sTakasBjaurusPosukis/sTakasBjaurusPosukis.yy",},
     {"name":"oZmogelisSuAliuku","order":5,"path":"objects/oZmogelisSuAliuku/oZmogelisSuAliuku.yy",},
     {"name":"sZole","order":19,"path":"sprites/sZole/sZole.yy",},
+    {"name":"sLOG","order":22,"path":"sprites/sLOG/sLOG.yy",},
     {"name":"sTakasBjaurus","order":17,"path":"sprites/sTakasBjaurus/sTakasBjaurus.yy",},
     {"name":"Sprite8","order":20,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
