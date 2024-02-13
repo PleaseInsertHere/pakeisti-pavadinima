@@ -77,6 +77,7 @@
     {"id":{"name":"sSKYjaunatis","path":"sprites/sSKYjaunatis/sSKYjaunatis.yy",},},
     {"id":{"name":"sBEEqueen","path":"sprites/sBEEqueen/sBEEqueen.yy",},},
     {"id":{"name":"oDoorToRoom2","path":"objects/oDoorToRoom2/oDoorToRoom2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"sRainDroplet","path":"sprites/sRainDroplet/sRainDroplet.yy",},},
     {"id":{"name":"oZmogelis","path":"objects/oZmogelis/oZmogelis.yy",},},
     {"id":{"name":"sZuvyte","path":"sprites/sZuvyte/sZuvyte.yy",},},
@@ -97,6 +98,7 @@
     {"id":{"name":"pixil_frame_1","path":"sprites/pixil_frame_1/pixil_frame_1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
