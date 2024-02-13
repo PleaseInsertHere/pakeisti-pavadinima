@@ -55,7 +55,7 @@
     {"name":"sBEEqueen","order":2,"path":"sprites/sBEEqueen/sBEEqueen.yy",},
     {"name":"oDoorToRoom2","order":2,"path":"objects/oDoorToRoom2/oDoorToRoom2.yy",},
     {"name":"sRainDroplet","order":4,"path":"sprites/sRainDroplet/sRainDroplet.yy",},
-    {"name":"sSKY2cloudwhite","order":44,"path":"sprites/sSKY2cloudwhite/sSKY2cloudwhite.yy",},
+    {"name":"sSKY2cloudwhite","order":7,"path":"sprites/sSKY2cloudwhite/sSKY2cloudwhite.yy",},
     {"name":"sTakasBjaurusPosukis","order":1,"path":"sprites/sTakasBjaurusPosukis/sTakasBjaurusPosukis.yy",},
     {"name":"sDECORlawnmover","order":1,"path":"sprites/sDECORlawnmover/sDECORlawnmover.yy",},
     {"name":"sBEEwarrior","order":1,"path":"sprites/sBEEwarrior/sBEEwarrior.yy",},

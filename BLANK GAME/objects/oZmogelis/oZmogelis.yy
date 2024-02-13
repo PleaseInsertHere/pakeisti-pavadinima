@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sMaroz",
-    "path": "sprites/sMaroz/sMaroz.yy",
+    "name": "pixil_frame_048",
+    "path": "sprites/pixil_frame_048/pixil_frame_048.yy",
   },
   "spriteMaskId": null,
   "visible": true,
