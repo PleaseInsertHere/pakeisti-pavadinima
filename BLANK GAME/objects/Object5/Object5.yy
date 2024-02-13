@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "BLANK GAME",
+    "path": "BLANK GAME.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
