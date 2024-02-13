@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sDOORsandcoulerwindow",
+    "path": "sprites/sDOORsandcoulerwindow/sDOORsandcoulerwindow.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
