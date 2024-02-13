@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Žmogai",
+    "path": "folders/Sprites/Žmogai.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
