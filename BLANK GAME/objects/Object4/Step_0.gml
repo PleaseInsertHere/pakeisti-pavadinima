@@ -1,15 +1,20 @@
-var up = keyboard_check(ord("W"));
+upKey = keyboard_check(vk_up) or keyboard_check(ord("W"));
+downKey = keyboard_check(vk_down) or keyboard_check(ord("S"));
+rightKey = keyboard_check(vk_right) or keyboard_check(ord("D"));
+leftKey = keyboard_check(vk_left) or keyboard_check(ord("A"));
 
-var down = keyboard_check(ord("S"));
+xspd = (rightKey - leftKey) * moveSpd;
+yspd = (downKey - upKey) * moveSpd;
 
-var left = keyboard_check(ord("D"));
+	 
+if place_meeting(x + xspd, y, oRandomAssSiena)
+{
+     xspd = 0;
+}
+if place_meeting(x, y + yspd, oRandomAssSiena)
+{
+     yspd = 0;
+}
 
-var right = keyboard_check(ord("A"));
-
-if up {y-= 11;}
-
-if down {y+= 11;}
-
-if left {x+= 11;}
-
-if right {x-= 11;}
+x += xspd;
+y += yspd;

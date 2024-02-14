@@ -1,4 +1,3 @@
-var up = 0;
-var down= 0;
-var left = 0;
-var right = 0;
+moveSpd = 5;
+xSpd = 0;
+ySpd = 0;
