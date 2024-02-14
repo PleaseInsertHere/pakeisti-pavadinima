@@ -95,10 +95,8 @@
     {"id":{"name":"sLOG","path":"sprites/sLOG/sLOG.yy",},},
     {"id":{"name":"sTakasBjaurus","path":"sprites/sTakasBjaurus/sTakasBjaurus.yy",},},
     {"id":{"name":"pixil_frame_1","path":"sprites/pixil_frame_1/pixil_frame_1.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
