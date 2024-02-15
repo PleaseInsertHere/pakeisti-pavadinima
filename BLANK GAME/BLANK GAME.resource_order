@@ -18,9 +18,9 @@
     {"name":"Krūmai","order":4,"path":"folders/Sprites/Krūmai.yy",},
     {"name":"Namas","order":2,"path":"folders/Sprites/Namas.yy",},
     {"name":"RANDOM","order":5,"path":"folders/Sprites/RANDOM.yy",},
+    {"name":"sHUMANchef","order":27,"path":"folders/Sprites/sHUMANchef.yy",},
     {"name":"Žmogai","order":7,"path":"folders/Sprites/Žmogai.yy",},
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-    {"name":"sHUMANchef","order":27,"path":"folders/Sprites/sHUMANchef.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sDOORold","order":24,"path":"sprites/sDOORold/sDOORold.yy",},

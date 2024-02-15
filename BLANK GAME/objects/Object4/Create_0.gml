@@ -1,3 +1,3 @@
-moveSpd = 5;
-xSpd = 0;
-ySpd = 0;
+moveSpd = 2;
+xspd = 0;
+yspd = 0;

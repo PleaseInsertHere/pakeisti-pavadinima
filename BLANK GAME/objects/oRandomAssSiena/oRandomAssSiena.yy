@@ -24,7 +24,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "sRandomAssSiena",
     "path": "sprites/sRandomAssSiena/sRandomAssSiena.yy",
