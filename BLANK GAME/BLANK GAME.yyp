@@ -88,6 +88,7 @@
     {"id":{"name":"sLOGlittlemushroom","path":"sprites/sLOGlittlemushroom/sLOGlittlemushroom.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"sHUMANchef1","path":"sprites/sHUMANchef1/sHUMANchef1.yy",},},
+    {"id":{"name":"oGun","path":"objects/oGun/oGun.yy",},},
     {"id":{"name":"sROCKmedium","path":"sprites/sROCKmedium/sROCKmedium.yy",},},
     {"id":{"name":"s____SCP","path":"sprites/s____SCP/s____SCP.yy",},},
     {"id":{"name":"sTRADEpurplemashine","path":"sprites/sTRADEpurplemashine/sTRADEpurplemashine.yy",},},
