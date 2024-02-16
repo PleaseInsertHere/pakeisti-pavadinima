@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "skelet",
-    "path": "sprites/skelet/skelet.yy",
+    "name": "pixil_frame_0",
+    "path": "sprites/pixil_frame_0/pixil_frame_0.yy",
   },
   "spriteMaskId": null,
   "visible": true,
