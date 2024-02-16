@@ -2,16 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sEYEgreen",
-
-  "bbox_bottom": 57,
-  "bbox_left": 9,
-  "bbox_right": 54,
-  "bbox_top": 12,
   "bbox_bottom": 44,
   "bbox_left": 14,
   "bbox_right": 47,
   "bbox_top": 25,
-
   "bboxMode": 0,
   "collisionKind": 4,
   "collisionTolerance": 0,

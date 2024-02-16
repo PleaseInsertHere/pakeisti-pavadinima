@@ -40,8 +40,6 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "pixil_frame_0",
-    "path": "sprites/pixil_frame_0/pixil_frame_0.yy",
     "name": "skelet65",
     "path": "sprites/skelet65/skelet65.yy",
   },
