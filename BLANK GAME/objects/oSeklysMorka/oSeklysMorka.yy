@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sEYEglen",
-    "path": "sprites/sEYEglen/sEYEglen.yy",
+    "name": "sEYEgreen",
+    "path": "sprites/sEYEgreen/sEYEgreen.yy",
   },
   "spriteMaskId": null,
   "visible": true,

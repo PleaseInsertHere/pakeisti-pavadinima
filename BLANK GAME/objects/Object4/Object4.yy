@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sSKYpilnatis",
-    "path": "sprites/sSKYpilnatis/sSKYpilnatis.yy",
+    "name": "skelet",
+    "path": "sprites/skelet/skelet.yy",
   },
   "spriteMaskId": null,
   "visible": true,
