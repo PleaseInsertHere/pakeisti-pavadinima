@@ -1,17 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sEYEgreen",
-
-  "bbox_bottom": 57,
-  "bbox_left": 9,
-  "bbox_right": 54,
-  "bbox_top": 12,
+  "name": "sEYEglen",
   "bbox_bottom": 44,
-  "bbox_left": 14,
-  "bbox_right": 47,
+  "bbox_left": 12,
+  "bbox_right": 45,
   "bbox_top": 25,
-
   "bboxMode": 0,
   "collisionKind": 4,
   "collisionTolerance": 0,
@@ -19,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8ab19fdb-dac5-4757-a067-81e1e7a9e4bb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"07c4c3de-41c3-43bd-a3f7-8d0ba811cc91",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e5aeb508-aebc-487b-86bc-5bce7301c142","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e3822b3e-8475-4539-b0c3-3149c1cbf29c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Akys",
-    "path": "folders/Sprites/Akys.yy",
+    "name": "Žmogai",
+    "path": "folders/Sprites/Žmogai.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sEYEgreen",
+    "name": "skelet",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -60,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8ab19fdb-dac5-4757-a067-81e1e7a9e4bb","path":"sprites/sEYEgreen/sEYEgreen.yy",},},},"Disabled":false,"id":"8d901120-78c0-4bb1-8d0e-1c3936882dad","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"07c4c3de-41c3-43bd-a3f7-8d0ba811cc91","path":"sprites/sEYEglen/sEYEglen.yy",},},},"Disabled":false,"id":"c7fae110-be48-4f7f-b4df-6fb500f37e69","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
