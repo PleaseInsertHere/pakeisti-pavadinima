@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sRandomAssSiena",
-    "path": "sprites/sRandomAssSiena/sRandomAssSiena.yy",
+    "name": "sKietaSiena",
+    "path": "sprites/sKietaSiena/sKietaSiena.yy",
   },
   "spriteMaskId": null,
   "visible": true,
