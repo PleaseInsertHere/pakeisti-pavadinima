@@ -42,6 +42,7 @@
     {"name":"sDOORsandcoulerwindow","order":2,"path":"sprites/sDOORsandcoulerwindow/sDOORsandcoulerwindow.yy",},
     {"name":"sHUMANchef2","order":1,"path":"sprites/sHUMANchef2/sHUMANchef2.yy",},
     {"name":"sWINDOWold","order":25,"path":"sprites/sWINDOWold/sWINDOWold.yy",},
+    {"name":"snd_punch","order":2,"path":"sounds/snd_punch/snd_punch.yy",},
     {"name":"sTRADEredmashine","order":6,"path":"sprites/sTRADEredmashine/sTRADEredmashine.yy",},
     {"name":"sTREE","order":11,"path":"sprites/sTREE/sTREE.yy",},
     {"name":"sBUSHsmall","order":2,"path":"sprites/sBUSHsmall/sBUSHsmall.yy",},

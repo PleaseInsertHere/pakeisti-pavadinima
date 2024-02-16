@@ -66,6 +66,7 @@
     {"id":{"name":"sDOORsandcoulerwindow","path":"sprites/sDOORsandcoulerwindow/sDOORsandcoulerwindow.yy",},},
     {"id":{"name":"sHUMANchef2","path":"sprites/sHUMANchef2/sHUMANchef2.yy",},},
     {"id":{"name":"sWINDOWold","path":"sprites/sWINDOWold/sWINDOWold.yy",},},
+    {"id":{"name":"snd_punch","path":"sounds/snd_punch/snd_punch.yy",},},
     {"id":{"name":"sTRADEredmashine","path":"sprites/sTRADEredmashine/sTRADEredmashine.yy",},},
     {"id":{"name":"sTREE","path":"sprites/sTREE/sTREE.yy",},},
     {"id":{"name":"sBUSHsmall","path":"sprites/sBUSHsmall/sBUSHsmall.yy",},},

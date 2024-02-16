@@ -1,5 +1,7 @@
 if (mouse_check_button_pressed(mb_left)){
 	
+	audio_play_sound(snd_punch, 0, false);
+	
 	var playerCenterX = x + sprite_width / 2;
 	var playerCenterY = y + sprite_height /2;
 	
@@ -12,4 +14,6 @@ if (mouse_check_button_pressed(mb_left)){
 	var hitbox = instance_create_depth(hitboxX, hitboxY, depth, oHitbox);
 	hitbox.creator = id;
 	hitbox.damage = 1;
+	
+	
 }
