@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "RANDOM",
-    "path": "folders/Sprites/RANDOM.yy",
+    "name": "BLANK GAME",
+    "path": "BLANK GAME.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
