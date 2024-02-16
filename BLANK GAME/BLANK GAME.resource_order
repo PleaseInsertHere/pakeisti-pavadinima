@@ -64,6 +64,7 @@
     {"name":"Room3","order":1,"path":"rooms/Room3/Room3.yy",},
     {"name":"sHitbox","order":19,"path":"sprites/sHitbox/sHitbox.yy",},
     {"name":"sRainDroplet","order":4,"path":"sprites/sRainDroplet/sRainDroplet.yy",},
+    {"name":"oHitboxEnemy","order":21,"path":"objects/oHitboxEnemy/oHitboxEnemy.yy",},
     {"name":"sSKY2cloudwhite","order":7,"path":"sprites/sSKY2cloudwhite/sSKY2cloudwhite.yy",},
     {"name":"sTakasBjaurusPosukis","order":1,"path":"sprites/sTakasBjaurusPosukis/sTakasBjaurusPosukis.yy",},
     {"name":"sDECORlawnmover","order":1,"path":"sprites/sDECORlawnmover/sDECORlawnmover.yy",},

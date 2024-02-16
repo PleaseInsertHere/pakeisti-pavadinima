@@ -94,6 +94,7 @@
     {"id":{"name":"sRainDroplet","path":"sprites/sRainDroplet/sRainDroplet.yy",},},
     {"id":{"name":"oZmogelis","path":"objects/oZmogelis/oZmogelis.yy",},},
     {"id":{"name":"sZuvyte","path":"sprites/sZuvyte/sZuvyte.yy",},},
+    {"id":{"name":"oHitboxEnemy","path":"objects/oHitboxEnemy/oHitboxEnemy.yy",},},
     {"id":{"name":"sSKY2cloudwhite","path":"sprites/sSKY2cloudwhite/sSKY2cloudwhite.yy",},},
     {"id":{"name":"sTakasBjaurusPosukis","path":"sprites/sTakasBjaurusPosukis/sTakasBjaurusPosukis.yy",},},
     {"id":{"name":"sDECORlawnmover","path":"sprites/sDECORlawnmover/sDECORlawnmover.yy",},},
