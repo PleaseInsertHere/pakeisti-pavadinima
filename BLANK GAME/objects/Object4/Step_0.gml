@@ -16,5 +16,34 @@
 	     yspd = 0;
 	}
 	
+	
+if (immunityTimer > 0) {
+    immunityTimer -= 1; // Decrease immunity timer
+}
+	
+
+// Step event code in Object4
+if (immunityTimer > 0) {
+    immunityTimer -= 1; // Decrease immunity timer
+    
+    // Flashing effect
+    if (immunityTimer % 10 == 0) { // Adjust flashing frequency (every 10 steps)
+        if (image_alpha == 1) {
+            image_alpha = 0.5; // Set transparency to half
+        } else {
+            image_alpha = 1; // Set transparency to full
+        }
+    }
+} else {
+    // Reset sprite transparency when immunity ends
+    image_alpha = 1; // Set transparency to full
+}
+
 	x += xspd;
 	y += yspd;
+	
+
+    
+    // Optional: Implement player health check to handle game over or other consequences
+
+  
